@@ -1,7 +1,9 @@
 // Create a constructor function called `Animal` that takes in two parameters `raining` and `noise`
 // Include a function called `makeNoise()`
 //
-// YOUR CODE HERE
+class animal { 
+    this.raining = rainig
+}
 //
 
 // Creates `dog` and `cat` objects with `raining` and `noise` properties
