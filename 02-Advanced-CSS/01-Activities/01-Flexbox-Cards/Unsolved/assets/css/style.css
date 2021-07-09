@@ -35,8 +35,8 @@ main h2 {
 
 .flex-container {
   /* TODO: Enter your CSS here */
-}
-
+} display: flex;
+ flex-flow: row wrap; 
 /* flex child */
 .flex-item {
   /* makes each one 45%, putting 10% between each element on the page */
